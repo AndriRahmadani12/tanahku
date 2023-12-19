@@ -25,7 +25,6 @@ Advantages of Tanahku App:
 3. Explore detailed soil information, including composition and characteristics.
 4. Obtain a list of recommended crops suitable for cultivation based on soil analysis.
 5. Access comprehensive information about recommended crops
-6. Future improvement: Enhance crop information by adding more detailed data, including growth cycles, best practices, and etc.
-7. Future improvement: Enroll in online courses taught by experienced farmers.
-8. Future improvement: Engage with expert farmers for consultations and advice.
-
+6. <span style="color:blue">**Future improvement:**</span> Enhance crop information by adding more detailed data, including growth cycles, best practices, and etc. <span style="color:gray">(For now can't use this feature)</span>
+7. <span style="color:blue">**Future improvement:**</span> Enroll in online courses taught by experienced farmers. <span style="color:gray">(For now can't use this feature)</span>
+8. <span style="color:blue">**Future improvement:**</span> Engage with expert farmers for consultations and advice. <span style="color:gray">(For now can't use this feature)</span>
