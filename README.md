@@ -20,11 +20,11 @@ Advantages of Tanahku App:
 4. Start the app: `npm start`
 
 ## Usage
-1. Access the app through your web browser or mobile device.
+1. Access the app through your mobile device.
 2. Identify your soil type and access detailed information through machine learning-based classification.
 3. Explore detailed soil information, including composition and characteristics.
 4. Obtain a list of recommended crops suitable for cultivation based on soil analysis.
 5. Access comprehensive information about recommended crops
-6. <span style="color:blue">**Future improvement:**</span> Enhance crop information by adding more detailed data, including growth cycles, best practices, and etc. <span style="color:gray">(For now can't use this feature)</span>
-7. <span style="color:blue">**Future improvement:**</span> Enroll in online courses taught by experienced farmers. <span style="color:gray">(For now can't use this feature)</span>
-8. <span style="color:blue">**Future improvement:**</span> Engage with expert farmers for consultations and advice. <span style="color:gray">(For now can't use this feature)</span>
+6. <font color="blue">**Future improvement:**</font> Enhance crop information by adding more detailed data, including growth cycles, best practices, and etc. <font color="gray">(For now can't use this feature)</font>
+7. <font color="blue">**Future improvement:**</font> Enroll in online courses taught by experienced farmers. <font color="gray">(For now can't use this feature)</font>
+8. <font color="blue">**Future improvement:**</font> Engage with expert farmers for consultations and advice. <font color="gray">(For now can't use this feature)</font>
