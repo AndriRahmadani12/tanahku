@@ -15,7 +15,7 @@ Advantages of Tanahku App:
 
 ## Installation
 1. **Download APK:**
-   - Go to the [Releases](https://github.com/AndriRahmadani12/tanahku/tree/main/releases) section of the repository.
+   - Go to the [Releases](https://github.com/AndriRahmadani12/tanahku/tree/main/Releases) section of the repository.
    - Look for the latest release or the desired version of the app.
    - Download the APK file associated with that release to your mobile device.
 
