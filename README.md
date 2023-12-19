@@ -14,10 +14,10 @@ Advantages of Tanahku App:
 - [Usage](#usage)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/tanahku-app.git`
-2. Navigate to the project directory.
-3. Install dependencies: `npm install`
-4. Start the app: `npm start`
+1. **Download APK:**
+   - Go to the [Releases](https://github.com/yourusername/tanahku-app/releases) section of the repository.
+   - Look for the latest release or the desired version of the app.
+   - Download the APK file associated with that release to your mobile device.
 
 ## Usage
 1. Access the app through your mobile device.
