@@ -2,7 +2,12 @@
 # Tanahku App
 
 ## Description
-Tanahku is an innovative agricultural application bridging traditional farming methods with modern technology. It empowers users by providing accurate soil analysis, tailored plant recommendations, and engaging online courses taught by experienced farmers, fostering sustainable cultivation practices.
+Advantages of Tanahku App:
+Our capstone project, Tanahku, emerged from the necessity to bridge the gap between traditional farming practices and modern technology. It aims to revolutionize how agricultural information is accessed and utilized, empowering users with knowledge for sustainable cultivation practices.
+
+-Tanahku App is an agricultural application that helps you identify your soil type, provides suitable plant recommendations, and offers online courses on plant cultivation. This application is aimed at farmers, researchers, and plant enthusiasts who wish to learn and share knowledge about sustainable agriculture.
+- With the Tanahku app, you can easily detect your soil type and access soil details along with a list of suitable plants for cultivation. You can also take online courses taught by experienced farmers or host your own classes if you have expertise in agriculture. Additionally, you can consult with expert farmers if you have any questions or issues regarding your plants.
+- Tanahku App is an application designed to meet your needs and interests in the field of agriculture. This app allows you to learn more about your soil, receive advice on suitable plants, and learn from experts in the agricultural field. This application is suitable for those working as farmers, studying as researchers, or enjoying plant enthusiasts.
 
 ## Table of Contents
 - [Installation](#installation)
