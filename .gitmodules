@@ -1,3 +1,6 @@
 [submodule "CloudComputing"]
 	path = CloudComputing
 	url = https://github.com/RichardA168/tanahku
+[submodule "MobileDevelopment"]
+	path = MobileDevelopment
+	url = https://github.com/Irpaan/Tanahku
