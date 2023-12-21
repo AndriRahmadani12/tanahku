@@ -7,3 +7,6 @@
 [submodule "Mobile"]
 	path = Mobile
 	url = https://github.com/Irpaan/Tanahku
+[submodule "MobileDev"]
+	path = MobileDev
+	url = https://github.com/Irpaan/Tanahku.git
