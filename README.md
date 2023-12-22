@@ -32,7 +32,7 @@ Advantages of Tanahku App:
 
 
 
-# Replicating Project in Android Studio from GitHub
+## Replicating Project in Android Studio from GitHub
 
 To replicate this project in Android Studio, follow these steps:
 
