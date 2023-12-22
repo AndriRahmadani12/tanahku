@@ -41,7 +41,7 @@ To replicate this project in Android Studio, follow these steps:
    - Navigate to the directory where you want to clone the project.
    - Clone the parent repository if you haven't already:
      ```bash
-     git clone <parent_repository_url>
+     git clone [(https://github.com/AndriRahmadani12/tanahku/tree/main)](https://github.com/AndriRahmadani12/tanahku.git)
      ```
    - Enter the AndroidDev submodule directory:
      ```bash
