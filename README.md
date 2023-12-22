@@ -45,7 +45,7 @@ To replicate this project in Android Studio, follow these steps:
      ```
    - Enter the AndroidDev submodule directory:
      ```bash
-     cd <parent_repository_directory>/AndroidDev
+     cd <parent_repository_directory>/MobileDev
      ```
 
 2. **Switch to the main branch:**
