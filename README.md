@@ -12,6 +12,7 @@ Advantages of Tanahku App:
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Replicate](#Replicating Project in Android Studio from GitHub)
 
 ## Installation
 1. **Download APK:**
@@ -28,3 +29,57 @@ Advantages of Tanahku App:
 6. <font color="blue">**Future improvement:**</font> Enhance crop information by adding more detailed data, including growth cycles, best practices, and etc. <font color="gray"></font>
 7. <font color="blue">**Future improvement:**</font> Enroll in online courses taught by experienced farmers. <font color="gray">(For now can't use this feature)</font>
 8. <font color="blue">**Future improvement:**</font> Engage with expert farmers for consultations and advice. <font color="gray">(For now can't use this feature)</font>
+
+
+
+# Replicating Project in Android Studio from GitHub
+
+To replicate this project in Android Studio, follow these steps:
+
+1. **Access the AndroidDev submodule:**
+   - Open your terminal/command prompt.
+   - Navigate to the directory where you want to clone the project.
+   - Clone the parent repository if you haven't already:
+     ```bash
+     git clone <parent_repository_url>
+     ```
+   - Enter the AndroidDev submodule directory:
+     ```bash
+     cd <parent_repository_directory>/AndroidDev
+     ```
+
+2. **Switch to the main branch:**
+   - Ensure you are on the latest commit of the `main` branch:
+     ```bash
+     git checkout main
+     ```
+
+3. **Copy the repository link:**
+   - On the GitHub page of the AndroidDev submodule, click on the 'Code' button.
+   - Copy the repository URL (HTTPS or SSH).
+
+4. **Open Android Studio:**
+   - Launch Android Studio on your computer.
+
+5. **Clone the repository:**
+   - Click on 'Get from Version Control' in the Android Studio welcome screen.
+   - Paste the copied repository URL into the 'URL' field.
+   - Choose the directory where you want to save the project locally.
+   - Click 'Clone'.
+
+6. **Set up the project in Android Studio:**
+   - Android Studio will start the cloning process.
+   - Once cloning is complete, open the project by selecting the root directory.
+
+7. **Configure if needed:**
+   - Ensure you have the necessary SDKs and tools installed.
+   - Sync Gradle files if prompted.
+
+8. **You've successfully replicated the project in Android Studio!**
+   - Explore the code, build, and run the project as needed.
+
+9. **Additional steps:**
+   - For any specific setup or instructions related to the project, refer to its documentation or README file.
+
+Happy coding in Android Studio!
+
